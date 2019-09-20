@@ -6,7 +6,7 @@
   "description": "Basic crud react app for managing contacts",
   "dependencies": {
     "aws-sdk": "^2.532.0",
-    "axios": "^0.16.0",
+    "axios": "^0.18.1",
     "classnames": "^2.2.5",
     "mddir": "^1.1.0",
     "react": "^15.4.2",
